@@ -1,0 +1,288 @@
+html{
+    background-image: url("/TunisiaImages/Flag.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+header{
+    background-color:grey;
+    color:red;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+div{
+    text-align: center;
+    border: black 3px solid;
+    margin: 10px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background:white;
+}
+
+
+
+fieldset{
+    width: 900px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: white;
+}
+
+
+#question{
+    margin-left: 200px;
+}
+
+
+.buttonAr {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+    
+}
+
+
+.buttonBe {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+   
+}
+
+.buttonBen {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+
+.buttonBiz {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+
+.buttonGab {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+
+.buttonGaf {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonJen {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonKai {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonKas {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonKeb {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonKef {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonMah {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonMan {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonMed {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonMon {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonNab {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonSfa {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}
+.buttonSbz {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}  
+.buttonSil {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}  
+.buttonSou {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}  
+.buttonTat {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}  
+.buttonToz {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}  
+.buttonTun {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}  
+.buttonZag {
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+}  
+
+
+#buttons{
+    background-color: rgba(0,0,0,0.5)
+}
+
+aside{
+    border: 2px solid black;
+    width: 200px;
+    height: 15%;
+    padding: 10px;
+    font-size: 17px;
+    position:fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
